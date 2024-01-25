@@ -14,7 +14,7 @@ Enjoy the timeless Rock-Paper-Scissors game right in your browser. This implemen
 
 ## Screenshots
 
-![App Screenshot]("C:\Users\HP\Downloads\Calculator.jpg")
+![game](https://github.com/Sachintha-Dinuranga/rock-paper-scissors/assets/117833055/94daf15f-809c-4ab6-bc62-5263c1d14509)
 
 
 ## Technologies Used
